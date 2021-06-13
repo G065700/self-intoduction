@@ -1,20 +1,20 @@
-// const introContent = "안녕하세요"
-// // console.log(introContent[0])
-// const introEl = document.querySelector(".intro")
+const introContent = '프론트엔드 개발자, 고은별의 웹 포트폴리오 입니다.'
+// console.log(introContent[0])
+const introEl = document.querySelector(".intro")
 
-// let index = 0
-// setInterval(() => {
-//   introEl.textContent += introContent[index]
-//   // console.log('index', index)
-//   // console.log(introEl.textContent)
-//   ++index
-//   // console.log('++index', index)
-//   // console.log(introContent.length)
-//   if (index > introContent.length) {
-//     introEl.textContent = ""
-//     index = 0
-//   }
-// }, 500)
+let index = 0
+setInterval(() => {
+  introEl.textContent += introContent[index]
+  // console.log('index', index)
+  // console.log(introEl.textContent)
+  ++index
+  // console.log('++index', index)
+  // console.log(introContent.length)
+  if (index > introContent.length) {
+    introEl.textContent = ""
+    index = 0
+  }
+}, 200)
 
 const headerEl = document.querySelector(".header")
 // console.log(window.pageYOffset, headerEl.offsetTop)
