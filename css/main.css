@@ -253,8 +253,9 @@ header div.header .inner .menu ul li:hover {
   width: 900px;
   height: 400px;
   border: 1px dashed #333;
-  background-color: #dee3e0;
+  background-color: #d4f3e0;
   box-sizing: border-box;
+
   border-radius: 10px;
 }
 .project .inner .swiper-wrapper {

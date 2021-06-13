@@ -74,7 +74,7 @@ new Swiper('.project .swiper-container', {
   direction: 'horizontal',
   loop: true,
   autoplay: {
-    delay: 3000
+    delay: 4000
   },
   slidesPerView: 1,
   pagination: {
