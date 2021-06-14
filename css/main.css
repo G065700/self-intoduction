@@ -335,7 +335,7 @@ footer {
 footer .inner {
   height: 100%;
 }
-footer .copyright {
+footer .inner .copyright {
   text-align: center;
   padding-top: 25px;
 }
