@@ -1,7 +1,6 @@
 # SELF-INTRODUCTION
 
 ## netlify를 이용한 지속적 배포
-<br/>
 <a href="https://unruffled-snyder-368273.netlify.app/" title="완성 페이지로 이동" target="_blank">완성 페이지로 이동</a> 
 <br/><br/> 
 
@@ -30,7 +29,7 @@ html, css, JS
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css" />
 ```
 ```html
- <!-- Swiper 사용 -->
+<!-- Swiper 사용 -->
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 ```
