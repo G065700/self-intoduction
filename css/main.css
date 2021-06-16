@@ -236,6 +236,14 @@ header div.header .inner .menu ul li:hover {
 .project .inner .swiper-slide .description p {
   margin-top: 20px;
 }
+.project .inner .swiper-slide .description .btn.btn--reverse {
+  background-color: #333;
+  color: #fff;
+}
+.project .inner .swiper-slide .description .btn.btn--reverse:hover {
+  background-color: transparent;
+  color: #333;
+}
 .project .inner .swiper-slide .description .link {
   display: flex;
   margin-top: 20px;
