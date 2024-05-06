@@ -1,7 +1,7 @@
 # SELF-INTRODUCTION
 
 ## netlify를 이용한 지속적 배포
-<a href="https://unruffled-snyder-368273.netlify.app/" title="완성 페이지로 이동" target="_blank">완성 페이지로 이동</a> 
+<a href="https://whoamip.netlify.app/">완성 페이지로 이동</a> 
 <br/><br/> 
 
 ## 프로젝트 개요
